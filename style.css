@@ -1,0 +1,157 @@
+/* === Reset === */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.interaction-group {
+    padding: 8px 12px;
+    margin: 4px 0;
+    transition: background-color 0.3s ease;
+    border-radius: 8px;
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.interaction-group:hover {
+    background-color: #f7f9fc;
+}
+
+.interaction-group:last-child {
+    margin-bottom: 16px;
+}
+
+@font-face {
+    font-family: "Next Display";
+    src: url("/fonts/NextDisplay-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Next Display";
+    src: url("/fonts/NextDisplay-Bold.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+}
+
+body {
+    background-color: #e0e0e0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: Inter, Arial, sans-serif;
+}
+
+/* === Prototype Frame — exactly 1280x1024 === */
+.prototype-frame {
+    position: relative;
+    width: 1280px;
+    height: 1024px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+/* === Background Image === */
+.bg-image {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    pointer-events: none;
+    display: block;
+}
+
+/* === AI Floating Action Button === */
+.fab {
+    position: absolute;
+    bottom: 32px;
+    right: 32px;
+    width: 44px;
+    /* Default closed width */
+    height: 44px;
+    border-radius: 22px;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    /* Important for width animation */
+    white-space: nowrap;
+
+    /* Figma gradient: Artificial Intelligence brand gradient */
+    background-image: linear-gradient(156.95deg,
+            rgb(200, 26, 247) 0%,
+            rgb(29, 144, 234) 100%);
+
+    /* Figma Elevation / Floating Action Button drop shadows */
+    box-shadow:
+        0px 5px 5px 0px rgba(0, 0, 0, 0.20),
+        0px 8px 10px 0px rgba(0, 0, 0, 0.14),
+        0px 3px 14px 0px rgba(0, 0, 0, 0.12);
+
+    /* Transitions for expansion */
+    transition:
+        width 0.6s cubic-bezier(0.4, 0, 0.2, 1),
+        padding 0.6s cubic-bezier(0.4, 0, 0.2, 1),
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+    outline: none;
+}
+
+/* Expanded State */
+.fab.expanded {
+    width: 360px;
+    /* Calculated width for text + icon + padding */
+    padding: 0 24px;
+    justify-content: space-between;
+}
+
+.fab:hover {
+    transform: scale(1.05);
+    box-shadow:
+        0px 6px 8px 0px rgba(0, 0, 0, 0.24),
+        0px 10px 14px 0px rgba(0, 0, 0, 0.18),
+        0px 4px 18px 0px rgba(0, 0, 0, 0.15);
+}
+
+.fab:active {
+    transform: scale(0.96);
+}
+
+.fab-label {
+    opacity: 0;
+    max-width: 0;
+    /* Changed from no width to 0 width */
+    overflow: hidden;
+    font-family: 'Next Display', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+    transition: opacity 0.3s ease 0.1s, max-width 0.6s ease, margin-right 0.6s ease;
+    pointer-events: none;
+}
+
+.fab.expanded .fab-label {
+    opacity: 1;
+    max-width: 300px;
+    margin-right: 8px;
+}
+
+.fab-icon {
+    width: 24px;
+    height: 24px;
+    display: block;
+    pointer-events: none;
+    flex-shrink: 0;
+}
+
+/* === Chat Window === */

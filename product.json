@@ -1,0 +1,3280 @@
+{
+    "products": [
+        {
+            "id": "BJ-001",
+            "type": "Jumper",
+            "productImage": "/product/black-jumpers/clarks-v-neck-single/jumper-black-clarks-v-neck-single.webp",
+            "thumbnailImages": [
+                "/product/black-jumpers/clarks-v-neck-single/jumper-black-clarks-v-neck-single.webp",
+                "/product/black-jumpers/clarks-v-neck-single/jumper-black-clarks-v-neck-single-2.webp",
+                "/product/black-jumpers/clarks-v-neck-single/jumper-black-clarks-v-neck-single-3.webp",
+                "/product/black-jumpers/clarks-v-neck-single/jumper-black-clarks-v-neck-single-4.webp"
+            ],
+            "tabs": [
+                "Single",
+                "2 Pack",
+                "More Like This"
+            ],
+            "productTitle": "Clarks Black Unisex Knitted School Jumper",
+            "price": {
+                "current": 12,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.4,
+                "reviewCount": 52
+            },
+            "productCodes": {
+                "sku": "AU5-530"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Black",
+                    "hex": "#000000"
+                }
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "BJ-002",
+            "type": "Jumper",
+            "productImage": "/product/black-jumpers/v-neck-2-pack/jumper-black-v-neck-2pack.webp",
+            "thumbnailImages": [
+                "/product/black-jumpers/v-neck-2-pack/jumper-black-v-neck-2pack.webp",
+                "/product/black-jumpers/v-neck-2-pack/jumper-black-v-neck-2pack-2.webp",
+                "/product/black-jumpers/v-neck-2-pack/jumper-black-v-neck-2pack-3.webp",
+                "/product/black-jumpers/v-neck-2-pack/jumper-black-v-neck-2pack-4.webp"
+            ],
+            "tabs": [
+                "2 Pack",
+                "Single",
+                "More Like This"
+            ],
+            "productTitle": "Black 2 Pack Knitted V-Neck School Jumper (3-16yrs)",
+            "price": {
+                "current": 14,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.2,
+                "reviewCount": 40
+            },
+            "productCodes": {
+                "sku": "AY1-312"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Black",
+                    "hex": "#000000"
+                }
+            ],
+            "fits": [
+                "Slim Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "BJ-003",
+            "type": "Jumper",
+            "productImage": "/product/black-jumpers/v-neck-single/jumper-black-v-neck-single.webp",
+            "thumbnailImages": [
+                "/product/black-jumpers/v-neck-2-pack/jumper-black-v-neck-single.webp",
+                "/product/black-jumpers/v-neck-2-pack/jumper-black-v-neck-single-2.webp"
+            ],
+            "tabs": [
+                "Single",
+                "2 Pack",
+                "More Like This"
+            ],
+            "productTitle": "Black Knitted V-Neck School Jumper (3-16yrs)",
+            "price": {
+                "current": 7,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 67
+            },
+            "productCodes": {
+                "sku": "V22-802"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Black",
+                    "hex": "#000000"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "BL-001",
+            "type": "Jumper",
+            "productImage": "/product/blue-jumpers/2-pack/jumper-blue-crew-neck-2pack.webp",
+            "thumbnailImages": [
+                "/product/blue-jumpers/2-pack/jumper-blue-crew-neck-2pack.webp",
+                "/product/blue-jumpers/2-pack/jumper-blue-crew-neck-2pack-2.webp",
+                "/product/blue-jumpers/2-pack/jumper-blue-crew-neck-2pack-3.webp",
+                "/product/blue-jumpers/2-pack/jumper-blue-crew-neck-2pack-4.webp"
+            ],
+            "tabs": [
+                "2 Pack",
+                "Single",
+                "More Like This"
+            ],
+            "productTitle": "Blue Crew Neck School Sweater 2 Pack (3-16yrs)",
+            "price": {
+                "current": 12,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.3,
+                "reviewCount": 45
+            },
+            "productCodes": {
+                "sku": "282-839"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Blue",
+                    "hex": "#0000FF"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "BL-002",
+            "type": "Jumper",
+            "productImage": "/product/blue-jumpers/single/jumper-blue-crew-neck-single.webp",
+            "thumbnailImages": [
+                "/product/blue-jumpers/single/jumper-blue-crew-neck-single.webp",
+                "/product/blue-jumpers/single/jumper-blue-crew-neck-single-2.webp",
+                "/product/blue-jumpers/single/jumper-blue-crew-neck-single-3.webp",
+                "/product/blue-jumpers/single/jumper-blue-crew-neck-single-4.webp"
+            ],
+            "tabs": [
+                "Single",
+                "2 Pack",
+                "More Like This"
+            ],
+            "productTitle": "Blue Crew Neck School Sweater (3-16yrs)",
+            "price": {
+                "current": 6,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.4,
+                "reviewCount": 38
+            },
+            "productCodes": {
+                "sku": "165-093"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Blue",
+                    "hex": "#0000FF"
+                }
+            ],
+            "fits": [
+                "Slim Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "RJ-001",
+            "type": "Jumper",
+            "productImage": "/product/red-jumpers/crew-neck/jumper-red-crew-neck-2-pack.jpg",
+            "thumbnailImages": [
+                "/product/red-jumpers/crew-neck/jumper-red-crew-neck-2-pack.jpg",
+                "/product/red-jumpers/crew-neck/jumper-red-crew-neck-2-pack-2.webp",
+                "/product/red-jumpers/crew-neck/jumper-red-crew-neck-2-pack-3.webp",
+                "/product/red-jumpers/crew-neck/jumper-red-crew-neck-2-pack-4.webp"
+            ],
+            "tabs": [
+                "2 Pack",
+                "Single",
+                "More Like This"
+            ],
+            "productTitle": "Red Crew Neck School Sweater 2 Pack (3-16yrs)",
+            "price": {
+                "current": 12,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.5,
+                "reviewCount": 60
+            },
+            "productCodes": {
+                "sku": "484-442"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Red",
+                    "hex": "#FF0000"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "RJ-002",
+            "type": "Jumper",
+            "productImage": "/product/red-jumpers/v-neck/jumper-red-v-neck.jpg",
+            "thumbnailImages": [
+                "/product/red-jumpers/v-neck/jumper-red-v-neck.jpg",
+                "/product/red-jumpers/v-neck/jumper-red-v-neck-2.webp",
+                "/product/red-jumpers/v-neck/jumper-red-v-neck-3.webp",
+                "/product/red-jumpers/v-neck/jumper-red-v-neck-4.webp"
+            ],
+            "tabs": [
+                "Single",
+                "2 Pack",
+                "More Like This"
+            ],
+            "productTitle": "Red Knitted V-Neck School Jumper (3-16yrs)",
+            "price": {
+                "current": 7,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.2,
+                "reviewCount": 33
+            },
+            "productCodes": {
+                "sku": "Q90-696"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Red",
+                    "hex": "#FF0000"
+                }
+            ],
+            "fits": [
+                "Slim Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "RJ-003",
+            "type": "Jumper",
+            "productImage": "/product/red-jumpers/v-neck-2-pack/jumper-red-v-neck-2-pack.webp",
+            "thumbnailImages": [
+                "/product/red-jumpers/v-neck-2-pack/jumper-red-v-neck-2-pack.webp",
+                "/product/red-jumpers/v-neck-2-pack/jumper-red-v-neck-2-pack-2.webp",
+                "/product/red-jumpers/v-neck-2-pack/jumper-red-v-neck-2-pack-3.webp",
+                "/product/red-jumpers/v-neck-2-pack/jumper-red-v-neck-2-pack-4.webp"
+            ],
+            "tabs": [
+                "2 Pack",
+                "Single",
+                "More Like This"
+            ],
+            "productTitle": "Clarks Red Unisex Knitted School Jumpers 2 Pack",
+            "price": {
+                "current": 22,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 70
+            },
+            "productCodes": {
+                "sku": "AU3-575"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Red",
+                    "hex": "#FF0000"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "GJ-001",
+            "type": "Jumper",
+            "productImage": "/product/green-jumpers/jumper-green-crew-neck-single.webp",
+            "thumbnailImages": [
+                "/product/green-jumpers/jumper-green-crew-neck-single.webp",
+                "/product/green-jumpers/jumper-green-crew-neck-single-2.webp",
+                "/product/green-jumpers/jumper-green-crew-neck-single-3.webp",
+                "/product/green-jumpers/jumper-green-crew-neck-single-4.webp"
+            ],
+            "productTitle": "Green Crew Neck School Sweater (3-16yrs)",
+            "price": {
+                "current": 7,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.3,
+                "reviewCount": 25
+            },
+            "productCodes": {
+                "sku": "Q90-643"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Green",
+                    "hex": "#008000"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "NJ-001",
+            "type": "Jumper",
+            "productImage": "/product/navy-jumpers/crew-neck/jumper-navy-crew-neck.webp",
+            "thumbnailImages": [
+                "/product/navy-jumpers/crew-neck/jumper-navy-crew-neck.webp",
+                "/product/navy-jumpers/crew-neck/jumper-navy-crew-neck-2.webp",
+                "/product/navy-jumpers/crew-neck/jumper-navy-crew-neck-3.webp",
+                "/product/navy-jumpers/crew-neck/jumper-navy-crew-neck-4.webp"
+            ],
+            "tabs": [
+                "Single",
+                "2 Pack",
+                "More Like This"
+            ],
+            "productTitle": "Navy Blue Crew Neck School Sweater (3-16yrs)",
+            "price": {
+                "current": 6,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.5,
+                "reviewCount": 80
+            },
+            "productCodes": {
+                "sku": "172-656"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Navy",
+                    "hex": "#000080"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "NJ-002",
+            "type": "Jumper",
+            "productImage": "/product/navy-jumpers/crew-neck-2-pack/jumper-navy-crew-neck-2-pack.webp",
+            "thumbnailImages": [
+                "/product/navy-jumpers/crew-neck-2-pack/jumper-navy-crew-neck-2-pack.webp",
+                "/product/navy-jumpers/crew-neck-2-pack/jumper-navy-crew-neck-2-pack-2.webp",
+                "/product/navy-jumpers/crew-neck-2-pack/jumper-navy-crew-neck-2-pack-3.webp",
+                "/product/navy-jumpers/crew-neck-2-pack/jumper-navy-crew-neck-2-pack-4.webp"
+            ],
+            "tabs": [
+                "2 Pack",
+                "Single",
+                "More Like This"
+            ],
+            "productTitle": "Navy Blue Crew Neck School Sweater 2 Pack (3-16yrs)",
+            "price": {
+                "current": 12,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.4,
+                "reviewCount": 60
+            },
+            "productCodes": {
+                "sku": "108-962"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Navy",
+                    "hex": "#000080"
+                }
+            ],
+            "fits": [
+                "Slim Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "NJ-003",
+            "type": "Jumper",
+            "productImage": "/product/navy-jumpers/v-neck/jumper-navy-v-neck-2-pack.webp",
+            "thumbnailImages": [
+                "/product/navy-jumpers/v-neck/jumper-navy-v-neck-2-pack.webp",
+                "/product/navy-jumpers/v-neck/jumper-navy-v-neck-2-pack-2.webp",
+                "/product/navy-jumpers/v-neck/jumper-navy-v-neck-2-pack-3.webp",
+                "/product/navy-jumpers/v-neck/jumper-navy-v-neck-2-pack-4.webp"
+            ],
+            "tabs": [
+                "2 Pack",
+                "Single",
+                "More Like This"
+            ],
+            "productTitle": "Navy 2 Pack Knitted V-Neck School Jumper (3-16yrs)",
+            "price": {
+                "current": 14,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "AY1-311"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Navy",
+                    "hex": "#000080"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "GREYJ-001",
+            "type": "Jumper",
+            "productImage": "/product/grey-jumpers/v-neck/jumper-grey-v-neck-single.webp",
+            "thumbnailImages": [
+                "/product/grey-jumpers/v-neck/jumper-grey-v-neck-single.webp",
+                "/product/grey-jumpers/v-neck/jumper-grey-v-neck-single-2.webp",
+                "/product/grey-jumpers/v-neck/jumper-grey-v-neck-single-3.webp",
+                "/product/grey-jumpers/v-neck/jumper-grey-v-neck-single-4.webp"
+            ],
+            "tabs": [
+                "Single",
+                "2 Pack",
+                "More Like This"
+            ],
+            "productTitle": "Charcoal Grey Knitted V-Neck School Jumper (3-16yrs)",
+            "price": {
+                "current": 7,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "Q90-695"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Grey",
+                    "hex": "#424242"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "GREYJ-002",
+            "type": "Jumper",
+            "productImage": "/product/grey-jumpers/crew-neck/jumper-grey-crew-neck-single.webp",
+            "thumbnailImages": [
+                "/product/grey-jumpers/crew-neck/jumper-grey-crew-neck-single.webp",
+                "/product/grey-jumpers/crew-neck/jumper-grey-crew-neck-single-2.webp",
+                "/product/grey-jumpers/crew-neck/jumper-grey-crew-neck-single-3.webp",
+                "/product/grey-jumpers/crew-neck/jumper-grey-crew-neck-single-4.webp"
+            ],
+            "tabs": [
+                "Single",
+                "2 Pack",
+                "More Like This"
+            ],
+            "productTitle": "Charcoal Grey Knitted V-Neck School Jumper (3-16yrs)",
+            "price": {
+                "current": 7,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "Q90-695"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Grey",
+                    "hex": "#424242"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "YP-001",
+            "type": "Polo Shirt",
+            "productImage": "/product/yellow-polo/next/polo-yellow-2-pack.webp",
+            "thumbnailImages": [
+                "/product/yellow-polo/next/polo-yellow-2-pack.webp",
+                "/product/yellow-polo/next/polo-yellow-2-pack-2.webp",
+                "/product/yellow-polo/next/polo-yellow-2-pack-3.webp",
+                "/product/yellow-polo/next/polo-yellow-2-pack-4.webp"
+            ],
+            "productTitle": "Yellow Regular Fit Cotton School Short Sleeve Polo Shirts 2 Pack (3-16yrs)",
+            "price": {
+                "current": 6,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "939-593"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Yellow",
+                    "hex": "#F3AF3E"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "YP-002",
+            "type": "Polo Shirt",
+            "productImage": "/product/yellow-polo/clarks/polo-yellow-2-pack-clarks.webp",
+            "thumbnailImages": [
+                "/product/yellow-polo/clarks/polo-yellow-2-pack-clarks.webp",
+                "/product/yellow-polo/clarks/polo-yellow-2-pack-clarks-2.webp",
+                "/product/yellow-polo/clarks/polo-yellow-2-pack-clarks-3.webp",
+                "/product/yellow-polo/clarks/polo-yellow-2-pack-clarks-4.webp"
+            ],
+            "productTitle": "Clarks Yellow Short Sleeve School Polo Shirts 2 Pack",
+            "price": {
+                "current": 12,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "Q81-195"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Yellow",
+                    "hex": "#F3AF3E"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "GP-001",
+            "type": "Polo Shirt",
+            "productImage": "/product/green-polo/joules/polo-green-single.webp",
+            "thumbnailImages": [
+                "/product/green-polo/joules/polo-green-single.webp",
+                "/product/green-polo/joules/polo-green-single-2.webp",
+                "/product/green-polo/joules/polo-green-single-3.webp",
+                "/product/green-polo/joules/polo-green-single-4.webp"
+            ],
+            "productTitle": "Joules Boys' Woody Green Short Sleeve Cotton Polo Shirt",
+            "price": {
+                "current": 14,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "H27-333"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Green",
+                    "hex": "#029259"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "GP-002",
+            "type": "Polo Shirt",
+            "productImage": "/product/green-polo/next/polo-green-2-pack.webp",
+            "thumbnailImages": [
+                "/product/green-polo/next/polo-green-2-pack.webp",
+                "/product/green-polo/next/polo-green-2-pack-2.webp",
+                "/product/green-polo/next/polo-green-2-pack-3.webp",
+                "/product/green-polo/next/polo-green-2-pack-4.webp"
+            ],
+            "productTitle": "Green Regular Fit Cotton School Short Sleeve Polo Shirts 2 Pack (3-16yrs)",
+            "price": {
+                "current": 6,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "C37-732"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Green",
+                    "hex": "#029259"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "BP-001",
+            "type": "Polo Shirt",
+            "productImage": "/product/blue-polo/5-pack/polo-blue-5-pack.webp",
+            "thumbnailImages": [
+                "/product/blue-polo/5-pack/polo-blue-5-pack.webp",
+                "/product/blue-polo/5-pack/polo-blue-5-pack-2.webp",
+                "/product/blue-polo/5-pack/polo-blue-5-pack-3.webp",
+                "/product/blue-polo/5-pack/polo-blue-5-pack-4.webp"
+            ],
+            "productTitle": "Blue School Short Sleeve Cotton Polo Shirts 5 Pack (3-16yrs)",
+            "price": {
+                "current": 15,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "996-493"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Blue",
+                    "hex": "#90A7BF"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "BP-002",
+            "type": "Polo Shirt",
+            "productImage": "/product/blue-polo/2-pack/polo-blue-2-pack.webp",
+            "thumbnailImages": [
+                "/product/blue-polo/2-pack/polo-blue-2-pack.webp",
+                "/product/blue-polo/2-pack/polo-blue-2-pack-2.webp",
+                "/product/blue-polo/2-pack/polo-blue-2-pack-3.webp",
+                "/product/blue-polo/2-pack/polo-blue-2-pack-4.webp"
+            ],
+            "productTitle": "Blue Regular Fit Cotton School Short Sleeve Polo Shirts 2 Pack (3-16yrs)",
+            "price": {
+                "current": 6,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "171-309"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Blue",
+                    "hex": "#90A7BF"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "WP-001",
+            "type": "Polo Shirt",
+            "productImage": "/product/white-polo/5-pack/polo-white-5-pack.webp",
+            "thumbnailImages": [
+                "/product/white-polo/5-pack/polo-white-5-pack.webp",
+                "/product/white-polo/5-pack/polo-white-5-pack-2.webp",
+                "/product/white-polo/5-pack/polo-white-5-pack-3.webp",
+                "/product/white-polo/5-pack/polo-white-5-pack-4.webp"
+            ],
+            "productTitle": "White School Short Sleeve Cotton Polo Shirts 5 Pack (3-16yrs)",
+            "price": {
+                "current": 15,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "996-493"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "White",
+                    "hex": "#F5F5F5"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "WP-002",
+            "type": "Polo Shirt",
+            "productImage": "/product/white-polo/2-pack/polo-white-2-pack.webp",
+            "thumbnailImages": [
+                "/product/white-polo/2-pack/polo-white-2-pack.webp",
+                "/product/white-polo/2-pack/polo-white-2-pack-2.webp",
+                "/product/white-polo/2-pack/polo-white-2-pack-3.webp",
+                "/product/white-polo/2-pack/polo-white-2-pack-4.webp"
+            ],
+            "productTitle": "White School Short Sleeve Cotton Polo Shirts 2 Pack (3-16yrs)",
+            "price": {
+                "current": 6,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "171-309"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "White",
+                    "hex": "#F5F5F5"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "WLS-001",
+            "type": "Long Sleeved Shirt",
+            "productImage": "/product/white-long-sleeved-shirt/2-pack/shirt-white-long-2-pack.webp",
+            "thumbnailImages": [
+                "/product/white-long-sleeved-shirt/2-pack/shirt-white-long-2-pack.webp",
+                "/product/white-long-sleeved-shirt/2-pack/shirt-white-long-2-pack-2.webp",
+                "/product/white-long-sleeved-shirt/2-pack/shirt-white-long-2-pack-3.webp",
+                "/product/white-long-sleeved-shirt/2-pack/shirt-white-long-2-pack-4.webp"
+            ],
+            "productTitle": "White Regular Fit 2 Pack Long Sleeve School Shirts (3-17yrs)",
+            "price": {
+                "current": 9,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "M13-605"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "White",
+                    "hex": "#F5F5F5"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "WLS-002",
+            "type": "Long Sleeved Shirt",
+            "productImage": "/product/white-long-sleeved-shirt/5-pack/shirt-white-long-5-pack.webp",
+            "thumbnailImages": [
+                "/product/white-long-sleeved-shirt/5-pack/shirt-white-long-5-pack.webp",
+                "/product/white-long-sleeved-shirt/5-pack/shirt-white-long-5-pack-2.webp",
+                "/product/white-long-sleeved-shirt/5-pack/shirt-white-long-5-pack-3.webp",
+                "/product/white-long-sleeved-shirt/5-pack/shirt-white-long-5-pack-4.webp"
+            ],
+            "productTitle": "White Regular Fit 5 Pack Long Sleeve School Shirts (3-17yrs)",
+            "price": {
+                "current": 22,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "M13-611"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "White",
+                    "hex": "#F5F5F5"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "BLS-001",
+            "type": "Long Sleeved Shirt",
+            "productImage": "/product/blue-long-sleeved-shirt/2-pack/shirt-blue-long-2-pack.webp",
+            "thumbnailImages": [
+                "/product/blue-long-sleeved-shirt/2-pack/shirt-blue-long-2-pack.webp",
+                "/product/blue-long-sleeved-shirt/2-pack/shirt-blue-long-2-pack-2.webp",
+                "/product/blue-long-sleeved-shirt/2-pack/shirt-blue-long-2-pack-3.webp",
+                "/product/blue-long-sleeved-shirt/2-pack/shirt-blue-long-2-pack-4.webp"
+            ],
+            "productTitle": "Blue Regular Fit 2 Pack Long Sleeve School Shirts (3-17yrs)",
+            "price": {
+                "current": 9,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "160-945"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Blue",
+                    "hex": "#82B7DA"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "BLS-002",
+            "type": "Long Sleeved Shirt",
+            "productImage": "/product/blue-long-sleeved-shirt/single/shirt-blue-long-single.webp",
+            "thumbnailImages": [
+                "/product/blue-long-sleeved-shirt/single/shirt-blue-long-single.webp",
+                "/product/blue-long-sleeved-shirt/single/shirt-blue-long-single-2.webp",
+                "/product/blue-long-sleeved-shirt/single/shirt-blue-long-single-3.webp",
+                "/product/blue-long-sleeved-shirt/single/shirt-blue-long-single-4.webp"
+            ],
+            "productTitle": "Blue Single Oxford Shirt (3-16yrs)",
+            "price": {
+                "current": 11,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "531-644"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Blue",
+                    "hex": "#82B7DA"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "WSS-001",
+            "type": "Short Sleeved Shirt",
+            "productImage": "/product/white-short-sleeved-shirt/2-pack/shirt-white-short-2-pack.webp",
+            "thumbnailImages": [
+                "/product/white-long-sleeved/2-pack/shirt-white-short-2-pack.webp",
+                "/product/white-long-sleeved/2-pack/shirt-white-short-2-pack-2.webp",
+                "/product/white-long-sleeved/2-pack/shirt-white-short-2-pack-3.webp",
+                "/product/white-long-sleeved/2-pack/shirt-white-short-2-pack-4.webp"
+            ],
+            "productTitle": "White Regular Fit 2 Pack Short Sleeve School Shirts (3-17yrs)",
+            "price": {
+                "current": 8,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "M13-607"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "White",
+                    "hex": "#F7F7F7"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "WSS-002",
+            "type": "Short Sleeved Shirt",
+            "productImage": "/product/white-short-sleeved-shirt/5-pack/shirt-white-short-5-pack.webp",
+            "thumbnailImages": [
+                "/product/white-long-sleeved/5-pack/shirt-white-short-5-pack.webp",
+                "/product/white-long-sleeved/5-pack/shirt-white-short-5-pack-2.webp",
+                "/product/white-long-sleeved/5-pack/shirt-white-short-5-pack-3.webp",
+                "/product/white-long-sleeved/5-pack/shirt-white-short-5-pack-4.webp"
+            ],
+            "productTitle": "White Regular Fit 5 Pack Short Sleeve School Shirts (3-17yrs)",
+            "price": {
+                "current": 20,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "M13-622"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "White",
+                    "hex": "#F7F7F7"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                "3 Yrs - £22",
+                "4 Yrs - £22",
+                "5 Yrs - £22",
+                "6 Yrs - £22",
+                "7 Yrs - £26",
+                "8 Yrs - £26",
+                "9 Yrs - £26",
+                "10 Yrs - £26",
+                "11 Yrs - £30",
+                "12 Yrs - £30",
+                "13 Yrs - £30",
+                "14 Yrs - £34",
+                "15 Yrs - £34",
+                "16 Yrs - £34"
+            ]
+        },
+        {
+            "id": "BSS-001",
+            "type": "Short Sleeved Shirt",
+            "productImage": "/product/blue-short-sleeved-shirt/2-pack/shirt-blue-short-2-pack.webp",
+            "thumbnailImages": [
+                "/product/blue-long-sleeved/2-pack/shirt-blue-short-2-pack.webp",
+                "/product/blue-long-sleeved/2-pack/shirt-blue-short-2-pack-2.webp",
+                "/product/blue-long-sleeved/2-pack/shirt-blue-short-2-pack-3.webp",
+                "/product/blue-long-sleeved/2-pack/shirt-blue-short-2-pack-4.webp"
+            ],
+            "productTitle": "Blue Regular Fit 2 Pack Short Sleeve School Shirts (3-17yrs)",
+            "price": {
+                "current": 8,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "176-909"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Blue",
+                    "hex": "#82B7DA"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "BSS-002",
+            "type": "Short Sleeved Shirt",
+            "productImage": "/product/blue-short-sleeved-shirt/single/shirt-blue-short-single.webp",
+            "thumbnailImages": [
+                "/product/blue-short-sleeved-shirt/single/shirt-blue-short-single.webp",
+                "/product/blue-short-sleeved-shirt/single/shirt-blue-short-single-2.webp",
+                "/product/blue-short-sleeved-shirt/single/shirt-blue-short-single-3.webp",
+                "/product/blue-short-sleeved-shirt/single/shirt-blue-short-single-4.webp"
+            ],
+            "productTitle": "Blue Plain Short Sleeve Cotton Rich Oxford Shirt (3-16yrs)",
+            "price": {
+                "current": 10,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "283-164"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Blue",
+                    "hex": "#82B7DA"
+                }
+            ],
+            "fits": [
+                "Regular Fit"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 18
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "BT-001",
+            "type": "Trousers",
+            "productImage": "/product/black-trousers/single/black-trouser-single.webp",
+            "thumbnailImages": [
+                "/product/black-trousers/single/black-trouser-single.webp",
+                "/product/black-trousers/single/black-trouser-single-2.webp",
+                "/product/black-trousers/single/black-trouser-single-3.webp",
+                "/product/black-trousers/single/black-trouser-single-4.webp"
+            ],
+            "productTitle": "Black Slim Waist Straight Leg School Trousers (3-17yrs)",
+            "price": {
+                "current": 10,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "194-594"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Black",
+                    "hex": "#000000"
+                }
+            ],
+            "fits": [
+                "Slim Waist"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 8
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 8
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 8
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 10
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 12
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 14
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 14
+                }
+            ]
+        },
+        {
+            "id": "BT-002",
+            "type": "Trousers",
+            "productImage": "/product/black-trousers/2-pack/black-trouser-2-pack.webp",
+            "thumbnailImages": [
+                "/product/black-trousers/2-pack/black-trouser-2-pack.webp",
+                "/product/black-trousers/2-pack/black-trouser-2-pack-2.jpg",
+                "/product/black-trousers/2-pack/black-trouser-2-pack-3.webp",
+                "/product/black-trousers/2-pack/black-trouser-2-pack-4.webp"
+            ],
+            "productTitle": "Black Straight Leg Pull On Waist School Trousers 2 Pack (3-17yrs)",
+            "price": {
+                "current": 16,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "AY1-278"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Black",
+                    "hex": "#000000"
+                }
+            ],
+            "fits": [
+                "Pull On Waist"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 16
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 20
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 20
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 20
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 20
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 24
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 24
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 24
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 24
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 28
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 28
+                }
+            ]
+        },
+        {
+            "id": "BT-003",
+            "type": "Trousers",
+            "productImage": "/product/black-trousers/5-pack/black-trouser-5-pack.webp",
+            "thumbnailImages": [
+                "/product/black-trousers/5-pack/black-trouser-5-pack.webp",
+                "/product/black-trousers/5-pack/black-trouser-5-pack-2.webp",
+                "/product/black-trousers/5-pack/black-trouser-5-pack-3.webp",
+                "/product/black-trousers/5-pack/black-trouser-5-pack-4.webp"
+            ],
+            "productTitle": "Black Straight Leg Pull On Waist School Trousers 5 Pack (3-17yrs)",
+            "price": {
+                "current": 40,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "V29-577"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Black",
+                    "hex": "#000000"
+                }
+            ],
+            "fits": [
+                "Pull On Waist"
+            ],
+            "sizes": [
+                {
+                    "size": "3 yrs",
+                    "price": 40
+                },
+                {
+                    "size": "4 yrs",
+                    "price": 40
+                },
+                {
+                    "size": "5 yrs",
+                    "price": 40
+                },
+                {
+                    "size": "6 yrs",
+                    "price": 40
+                },
+                {
+                    "size": "7 yrs",
+                    "price": 50
+                },
+                {
+                    "size": "8 yrs",
+                    "price": 50
+                },
+                {
+                    "size": "9 yrs",
+                    "price": 50
+                },
+                {
+                    "size": "10 yrs",
+                    "price": 50
+                },
+                {
+                    "size": "11 yrs",
+                    "price": 60
+                },
+                {
+                    "size": "12 yrs",
+                    "price": 60
+                },
+                {
+                    "size": "13 yrs",
+                    "price": 60
+                },
+                {
+                    "size": "14 yrs",
+                    "price": 70
+                },
+                {
+                    "size": "15 yrs",
+                    "price": 70
+                },
+                {
+                    "size": "16 yrs",
+                    "price": 70
+                }
+            ]
+        },
+        {
+            "id": "GT-001",
+            "type": "Trousers",
+            "productImage": "/product/grey-trousers/single/trousers-grey-single.webp",
+            "thumbnailImages": [
+                "/product/grey-trousers/single/trousers-grey-single.webp",
+                "/product/grey-trousers/single/trousers-grey-single-2.webp",
+                "/product/grey-trousers/single/trousers-grey-single-3.webp",
+                "/product/grey-trousers/single/trousers-grey-single-4.webp"
+            ],
+            "productTitle": "Grey Plus Waist Straight Leg School Trousers (3-17yrs)",
+            "price": {
+                "current": 8,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "195-989"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Grey",
+                    "hex": "#424242"
+                }
+            ],
+            "fits": [
+                "Plus Waist"
+            ],
+            "sizes": [
+                {"size": "3 yrs", "price": 8},
+                {"size": "4 yrs", "price": 8},
+                {"size": "5 yrs", "price": 8},
+                {"size": "6 yrs", "price": 8},
+                {"size": "7 yrs", "price": 10},
+                {"size": "8 yrs", "price": 10},
+                {"size": "9 yrs", "price": 10},
+                {"size": "10 yrs", "price": 10},
+                {"size": "11 yrs", "price": 12},
+                {"size": "12 yrs", "price": 12},
+                {"size": "13 yrs", "price": 12},
+                {"size": "14 yrs", "price": 14},
+                {"size": "15 yrs", "price": 14},
+                {"size": "16 yrs", "price": 14}
+            ]
+        },
+        {
+            "id": "GT-002",
+            "type": "Trousers",
+            "productImage": "/product/grey-trousers/2-pack/trouser-grey-2-pack.webp",
+            "thumbnailImages": [
+                "/product/grey-trousers/2-pack/trouser-grey-2-pack.webp",
+                "/product/grey-trousers/2-pack/trouser-grey-2-pack-2.webp",
+                "/product/grey-trousers/2-pack/trouser-grey-2-pack-3.webp",
+                "/product/grey-trousers/2-pack/trouser-grey-2-pack-4.webp"
+            ],
+            "productTitle": "Grey Straight Leg Pull On Waist School Trousers 2 Pack (3-17yrs)",
+            "price": {
+                "current": 16,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "AM7-651"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Grey",
+                    "hex": "#424242"
+                }
+            ],
+            "fits": [
+                "Pull On Waist"
+            ],
+            "sizes": [
+                {"size": "3 yrs", "price": 16},
+                {"size": "4 yrs", "price": 16},
+                {"size": "5 yrs", "price": 16},
+                {"size": "6 yrs", "price": 16},
+                {"size": "7 yrs", "price": 20},
+                {"size": "8 yrs", "price": 20},
+                {"size": "9 yrs", "price": 20},
+                {"size": "10 yrs", "price": 20},
+                {"size": "11 yrs", "price": 24},
+                {"size": "12 yrs", "price": 24},
+                {"size": "13 yrs", "price": 24},
+                {"size": "14 yrs", "price": 24},
+                {"size": "15 yrs", "price": 28},
+                {"size": "16 yrs", "price": 28}
+            ]
+        },
+        {
+            "id": "GT-003",
+            "type": "Trousers",
+            "productImage": "/product/grey-trousers/5-pack/trouser-grey-5-pack.webp",
+            "thumbnailImages": [
+                "/product/grey-trousers/5-pack/trouser-grey-5-pack.webp",
+                "/product/grey-trousers/5-pack/trouser-grey-5-pack-2.webp",
+                "/product/grey-trousers/5-pack/trouser-grey-5-pack-3.webp",
+                "/product/grey-trousers/5-pack/trouser-grey-5-pack-4.webp"
+            ],
+            "productTitle": "Grey Straight Leg Pull On Waist School Trousers 5 Pack (3-17yrs)",
+            "price": {
+                "current": 40,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "AM7-651"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Grey",
+                    "hex": "#424242"
+                }
+            ],
+            "fits": [
+                "Pull On Waist"
+            ],
+            "sizes": [
+                {"size": "3 yrs", "price": 40},
+                {"size": "4 yrs", "price": 40},
+                {"size": "5 yrs", "price": 40},
+                {"size": "6 yrs", "price": 40},
+                {"size": "7 yrs", "price": 50},
+                {"size": "8 yrs", "price": 50},
+                {"size": "9 yrs", "price": 50},
+                {"size": "10 yrs", "price": 50},
+                {"size": "11 yrs", "price": 60},
+                {"size": "12 yrs", "price": 60},
+                {"size": "13 yrs", "price": 60},
+                {"size": "14 yrs", "price": 70},
+                {"size": "15 yrs", "price": 70},
+                {"size": "16 yrs", "price": 70}
+            ]
+        },
+        {
+            "id": "NT-001",
+            "type": "Trousers",
+            "productImage": "/product/navy-trousers/single/trouser-navy-single.webp",
+            "thumbnailImages": [
+                "/product/navy-trousers/single/trouser-navy-single.webp",
+                "/product/navy-trousers/single/trouser-navy-single-2.webp",
+                "/product/navy-trousers/single/trouser-navy-single-3.webp",
+                "/product/navy-trousers/single/trouser-navy-single-4.webp"
+            ],
+            "productTitle": "Navy Regular Waist Straight Leg School Trousers (3-17yrs)",
+            "price": {
+                "current": 8,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "499-825"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Navy Blue",
+                    "hex": "#000080"
+                }
+            ],
+            "fits": [
+                "Pull On Waist"
+            ],
+            "sizes": [
+                {"size": "3 yrs", "price": 8},
+                {"size": "4 yrs", "price": 8},
+                {"size": "5 yrs", "price": 8},
+                {"size": "6 yrs", "price": 8},
+                {"size": "7 yrs", "price": 10},
+                {"size": "8 yrs", "price": 10},
+                {"size": "9 yrs", "price": 10},
+                {"size": "10 yrs", "price": 10},
+                {"size": "11 yrs", "price": 12},
+                {"size": "12 yrs", "price": 12},
+                {"size": "13 yrs", "price": 12},
+                {"size": "14 yrs", "price": 14},
+                {"size": "15 yrs", "price": 14},
+                {"size": "16 yrs", "price": 14}
+            ]
+        },
+        {
+            "id": "NT-002",
+            "type": "Trousers",
+            "productImage": "/product/navy-trousers/2-pack/trouser-navy-2-pack.jpg",
+            "thumbnailImages": [
+                "/product/navy-trousers/2-pack/trouser-navy-2-pack.webp",
+                "/product/navy-trousers/2-pack/trouser-navy-2-pack-2.webp",
+                "/product/navy-trousers/2-pack/trouser-navy-2-pack-3.jpg",
+                "/product/navy-trousers/2-pack/trouser-navy-2-pack-4.webp"
+            ],
+            "productTitle": "Navy Straight Leg Pull On Waist School Trousers 2 Pack (3-17yrs)",
+            "price": {
+                "current": 16,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "AY1-281"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Navy Blue",
+                    "hex": "#000080"
+                }
+            ],
+            "fits": [
+                "Pull On Waist"
+            ],
+            "sizes": [
+                {"size": "3 yrs", "price": 16},
+                {"size": "4 yrs", "price": 16},
+                {"size": "5 yrs", "price": 16},
+                {"size": "6 yrs", "price": 16},
+                {"size": "7 yrs", "price": 20},
+                {"size": "8 yrs", "price": 20},
+                {"size": "9 yrs", "price": 20},
+                {"size": "10 yrs", "price": 20},
+                {"size": "11 yrs", "price": 24},
+                {"size": "12 yrs", "price": 24},
+                {"size": "13 yrs", "price": 24},
+                {"size": "14 yrs", "price": 24},
+                {"size": "15 yrs", "price": 28},
+                {"size": "16 yrs", "price": 28}
+            ]
+        },
+        {
+            "id": "NT-003",
+            "type": "Trousers",
+            "productImage": "/product/navy-trousers/5-pack/trouser-navy-5-pack.webp",
+            "thumbnailImages": [
+                "/product/navy-trousers/5-pack/trouser-navy-5-pack.webp",
+                "/product/navy-trousers/5-pack/trouser-navy-5-pack-2.webp",
+                "/product/navy-trousers/5-pack/trouser-navy-5-pack-3.jpg",
+                "/product/navy-trousers/5-pack/trouser-navy-5-pack-4.webp"
+            ],
+            "productTitle": "Navy Straight Leg Pull On Waist School Trousers 5 Pack (3-17yrs)",
+            "price": {
+                "current": 40,
+                "currency": "GBP"
+            },
+            "reviews": {
+                "averageRating": 4.6,
+                "reviewCount": 72
+            },
+            "productCodes": {
+                "sku": "V29-571"
+            },
+            "colourSwatches": [
+                {
+                    "colourName": "Navy Blue",
+                    "hex": "#000080"
+                }
+            ],
+            "fits": [
+                "Pull On Waist"
+            ],
+            "sizes": [
+                {"size": "3 yrs", "price": 40},
+                {"size": "4 yrs", "price": 40},
+                {"size": "5 yrs", "price": 40},
+                {"size": "6 yrs", "price": 40},
+                {"size": "7 yrs", "price": 50},
+                {"size": "8 yrs", "price": 50},
+                {"size": "9 yrs", "price": 50},
+                {"size": "10 yrs", "price": 50},
+                {"size": "11 yrs", "price": 60},
+                {"size": "12 yrs", "price": 60},
+                {"size": "13 yrs", "price": 60},
+                {"size": "14 yrs", "price": 70},
+                {"size": "15 yrs", "price": 70},
+                {"size": "16 yrs", "price": 70}
+            ]
+        }
+    ]
+}

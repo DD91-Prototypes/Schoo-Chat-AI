@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Detail Page - School Chat AI</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="pdp.css">
+    <link rel="stylesheet" href="chat-component.css">
+</head>
+
+<body data-page-type="pdp">
+    <div id="pdpPageWrapper" class="pdp-page-wrapper">
+        <header class="pdp-header">
+            <!-- Global Bar -->
+            <div class="global-bar">
+                <div class="container header-container">
+                    <div class="global-left"></div>
+                    <div class="global-center">
+                        <span>Split the cost with Pay in 3. <a href="#">Find out more</a></span>
+                    </div>
+                    <div class="global-right">
+                        <a href="#">Store Locator</a>
+                        <span class="divider"></span>
+                        <a href="#">Help</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Brand Bar -->
+            <div class="brand-bar">
+                <div class="container header-container">
+                    <div class="search-container">
+                        <div class="search-input-wrapper">
+                            <input type="text" placeholder="Search for anything here...">
+                            <img src="images/icons/next-search.svg" alt="Search" class="search-icon">
+                        </div>
+                    </div>
+                    <div class="logo-container">
+                        <img src="images/next.svg" alt="Next Logo" class="main-logo">
+                    </div>
+                    <div class="actions-container">
+                        <button class="action-btn chat-btn"><img src="images/icons/next-header-chat.svg"
+                                alt="chat ai"></button>
+                        <button class="action-btn wishlist"><img src="images/icons/next-favourites.svg"
+                                alt="Wishlist"></button>
+                        <button class="action-btn account"><img src="images/icons/next-account.svg"
+                                alt="Account"></button>
+                        <button class="action-btn bag">
+                            <img src="images/icons/next-bag.svg" alt="Bag">
+                            <span class="badge">0</span>
+                        </button>
+                        <button class="checkout-btn">CHECKOUT</button>
+                    </div>
+                </div>
+            </div>
+            <!-- Nav Bar -->
+            <nav class="nav-bar">
+                <div class="container header-container">
+                    <a href="#">WOMEN</a>
+                    <a href="#">MEN</a>
+                    <a href="#">BOYS</a>
+                    <a href="#">GIRLS</a>
+                    <a href="#">HOME</a>
+                    <a href="#">BABY</a>
+                    <a href="#">BEAUTY</a>
+                    <a href="#">FURNITURE</a>
+                    <a href="#">BRANDS</a>
+                    <a href="#">GIFTS & FLOWERS</a>
+                    <a href="#">SPORTS</a>
+                    <a href="#">CLEARANCE</a>
+                </div>
+            </nav>
+        </header>
+
+        <main class="pdp-main container">
+            <div class="product-layout">
+                <!-- Left: Image Section -->
+                <section class="image-section">
+                    <div class="thumbnail-carousel thumbnails" id="thumbnailCarousel">
+                        <!-- Thumbnails will be injected here -->
+                    </div>
+                    <div class="main-image-container">
+                        <button class="gallery-expand-btn"><img src="images/icons/next-favourites.svg"
+                                alt="Expand"></button>
+                        <img id="mainProductImage" class="product-image" src="" alt="Product Image">
+                        <div class="image-navigation">
+                            <button class="nav-arrow prev">&lt;</button>
+                            <button class="nav-arrow next">&gt;</button>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Right: Info Section -->
+                <section class="info-section">
+                    <div class="pdp-tabs-row">
+                        <div class="pdp-tabs">
+                            <span class="pdp-tab active">Overview</span>
+                            <span class="pdp-tab">Details</span>
+                            <span class="pdp-tab">Label</span>
+                            <span class="pdp-tab">Label</span>
+                            <span class="pdp-tab">Label</span>
+                        </div>
+                    </div>
+
+                    <div class="product-header">
+                        <div class="title-price-row">
+                            <h1 id="productTitle" class="product-title">Product Title</h1>
+                            <span id="productPrice" class="current-price product-price">£00</span>
+                        </div>
+                        <div class="rating-sku-row">
+                            <div class="rating-container reviews" id="headerRating">
+                                <!-- Stars injected by JS -->
+                            </div>
+                            <span id="productSku" class="sku product-code">123-456</span>
+                        </div>
+                    </div>
+
+                    <div class="product-options">
+                        <div class="option-group">
+                            <label class="group-label">Colour: <span id="selectedColorName"
+                                    class="selection-text">Black</span></label>
+                            <div class="color-swatches" id="colorPills"></div>
+                        </div>
+
+                        <div class="option-group" id="fitGroup">
+                            <label class="group-label">Fit:</label>
+                            <div class="fit-pills">
+                                <button class="fit-pill active">Regular Fit</button>
+                                <button class="fit-pill">Label</button>
+                                <button class="fit-pill">Label</button>
+                            </div>
+                        </div>
+
+                        <div class="option-group">
+                            <div class="size-header">
+                                <label class="group-label">Size:</label>
+                                <a href="#" class="size-guide-link">Size Guide</a>
+                            </div>
+                            <div class="size-dropdown-wrapper">
+                                <select id="sizeSelect" class="size-select">
+                                    <option value="">Choose Size</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="product-actions-v2">
+                        <button class="add-to-bag-btn-v2">ADD TO BAG</button>
+                        <button class="favourite-btn-v2"><img src="images/icons/next-favourites.svg" alt="Fav"></button>
+                    </div>
+
+                    <div class="info-accordions">
+                        <div class="info-accordion">
+                            <div class="accordion-header">
+                                <span>See Our Fast Delivery & Return Options</span>
+                                <img src="images/icons/chevron-down.svg" class="chevron-icon" alt="Expand">
+                            </div>
+                        </div>
+                        <div class="info-accordion description-accordion">
+                            <div class="accordion-header">
+                                <span>Description</span>
+                                <img src="images/icons/chevron-down.svg" class="chevron-icon" alt="Expand">
+                            </div>
+                            <div class="accordion-content">
+                                <p id="productDescription">Send them to school in style in our knitted V-Neck school
+                                    burgundy red jumper. Crafted from 100% Cotton. Lorem ipsum dolor sit amet,
+                                    consectetur adipiscing elit. Quisque ut velit ornare, aliquet velit vitae, interdum
+                                    magna.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="you-may-also-like" id="relatedRibbon">
+                        <h3>You May Also Like</h3>
+                        <div class="ribbon-carousel">
+                            <button class="ribbon-nav-btn prev">&lt;</button>
+                            <div class="ribbon-items" id="ribbonItems"></div>
+                            <button class="ribbon-nav-btn next">&gt;</button>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+            <section class="pdp-secondary">
+                <div class="reviews-container">
+                    <div class="reviews-header">
+                        <h3>Reviews</h3>
+                    </div>
+                    <div class="reviews-content-v2">
+                        <!-- Standard reviews will be injected here -->
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Chat Component Placeholder -->
+        <div id="chat-component-container"></div>
+    </div>
+
+    <script src="chat-loader.js"></script>
+    <script src="chat-logic.js"></script>
+    <script src="pdp.js"></script>
+</body>
+
+</html>

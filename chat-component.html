@@ -1,0 +1,83 @@
+<div class="chat-window" id="chat-window">
+    <div class="chat-header">
+        <div class="header-left">
+            <img src="images/ai-gif.gif" alt="AI Assistant" class="header-ai-icon" />
+            <span>Assistant</span>
+        </div>
+        <div class="header-right">
+            <button class="meatball-btn" id="meatball-btn" aria-label="Menu">
+                <img src="images/icons/meatball-chat.svg" alt="Menu">
+            </button>
+            <button class="expand-btn" id="expand-chat" aria-label="Expand Chat">
+                <img src="images/icons/expand-chat.svg" alt="Expand">
+            </button>
+            <button class="close-btn" id="close-chat" aria-label="Close Chat">
+                <img src="images/icons/close-chat.svg" alt="Close">
+            </button>
+            <div class="meatball-menu" id="meatball-menu">
+                <button class="menu-item" id="clear-chat">Clear Chat</button>
+                <button class="menu-item" id="leave-feedback">Leave Feedback</button>
+            </div>
+        </div>
+    </div>
+    <div class="chat-body">
+        <div class="timestamp">Today 08:00</div>
+        <div class="interaction-group">
+            <div class="message bot-message">
+                <div class="bot-icon-small">
+                    <img src="images/ai-logo.svg" alt="" />
+                </div>
+                <div class="message-bubble">
+                    Hello! Looking for your boys school uniform?
+                </div>
+            </div>
+            <div class="pill-scroller" id="initial-options">
+                <button class="pill" id="pill-yes">Yes</button>
+                <button class="pill" id="pill-no">No</button>
+            </div>
+        </div>
+    </div>
+    <div class="chat-footer">
+        <div class="input-container">
+            <input type="text" placeholder="Help me find what I am looking for" />
+            <button class="send-btn" aria-label="Send">
+                <img src="images/send-vector.svg" alt="" />
+            </button>
+        </div>
+        <div class="footer-note">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="12" cy="12" r="10" />
+                <line x1="12" y1="16" x2="12" y2="12" />
+                <line x1="12" y1="8" x2="12.01" y2="8" />
+            </svg>
+            <span>Responses use AI and may contain errors.</span>
+        </div>
+    </div>
+</div>
+
+<!-- Product Detail Modal -->
+<div class="product-modal" id="product-modal">
+    <div class="modal-content">
+        <button class="modal-close" id="modal-close">&times;</button>
+        <div class="modal-body">
+            <div class="modal-image-section">
+                <div class="main-image-container">
+                    <img id="modal-main-image" src="" alt="Product Image" />
+                </div>
+                <div class="thumbnail-list" id="modal-thumbnails">
+                    <!-- Thumbnails injected here -->
+                </div>
+            </div>
+            <div class="modal-info-section">
+                <h2 id="modal-product-title">Product Title</h2>
+                <div class="modal-price" id="modal-product-price">£0</div>
+                <div class="modal-details">
+                    <div class="detail-item"><strong>SKU:</strong> <span id="modal-product-sku"></span></div>
+                    <div class="detail-item"><strong>Rating:</strong> <span id="modal-product-rating"></span>
+                    </div>
+                </div>
+                <button class="add-to-bag-btn">Add to Bag</button>
+            </div>
+        </div>
+    </div>
+</div>

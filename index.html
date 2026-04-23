@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Chat AI – Onload</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="chat-component.css">
+</head>
+
+<body data-page-type="dashboard">
+    <div class="prototype-frame">
+        <!-- Background image -->
+        <img class="bg-image" src="images/boys-uniform-plp.png" alt="Boys School Uniforms PLP" />
+
+        <!-- AI Floating Action Button -->
+        <button class="fab" id="fab-btn" aria-label="Open School Chat AI">
+            <span class="fab-label">Ask Next Ai: Your back to school specialist</span>
+            <img src="images/default.svg" alt="AI Chat" class="fab-icon" />
+        </button>
+
+        <!-- Chat Component Placeholder -->
+        <div id="chat-component-container"></div>
+    </div>
+
+    <script src="chat-loader.js"></script>
+    <script src="chat-logic.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
